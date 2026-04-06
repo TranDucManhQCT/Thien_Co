@@ -38,8 +38,6 @@ Thiên Cơ được định hướng hỗ trợ nhiều cách lập quẻ, bao g
 - lập quẻ theo thời gian
 - cỏ thi hoặc chế độ nâng cao ở giai đoạn sau
 
-Việc hỗ trợ nhiều phương pháp sẽ giúp hệ thống vừa phù hợp với người mới bắt đầu, vừa giữ được chiều sâu cho những ai muốn trải nghiệm theo hướng truyền thống hơn.
-
 ## Công nghệ dự kiến sử dụng
 
 Dự án dự kiến được xây dựng bằng:
@@ -47,8 +45,6 @@ Dự án dự kiến được xây dựng bằng:
 - TypeScript
 - React
 - Node.js
-
-Đây là lựa chọn phù hợp để phát triển một hệ thống web hiện đại, dễ mở rộng và thuận tiện cho việc xây dựng cả frontend lẫn backend trong cùng một dự án.
 
 ## Tinh thần của dự án
 
